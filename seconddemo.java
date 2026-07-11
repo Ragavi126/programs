@@ -17,7 +17,7 @@ public class seconddemo {
 	int sum=a1+a2;
 		
 		if(sum==635) {
-			System.out.println("Passed");
+			System.out.println("Pass");
 		}
 		else {
 			System.out.println("Failed");

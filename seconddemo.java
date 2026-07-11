@@ -20,7 +20,7 @@ public class seconddemo {
 			System.out.println("Passed");
 		}
 		else {
-			System.out.println("Not Passed");
+			System.out.println("Failed");
 		}
 	}
 
